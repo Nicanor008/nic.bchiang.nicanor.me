@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js', 'Python', 'Google Cloud'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Nicanor and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Nicanor and I enjoy creating things that live on the internet. My{' '}
+              interest in software engineering started back in 2016 when decided to create a{' '}
+              facebook clone web app - turns out there were more technologies and things to be
+              familiar with. Ever since, I've dived deep into learning and understanding about web
+              technologies and software engineering in general.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast forward to today, I've had the privilege of working at{' '}
+              <a href="https://andela.com/">Andela</a>,{' '}
+              <a href="https://kenswitch.com/">KenSwitch</a>,{' '}
+              <a href="https://incentro.com/">Incentro</a> and{' '}
+              <a href="https://sovtech.co.za/">SovTech</a>. My main focus now is building
+              accessible, performant and digital experiences at SovTech for a variety of clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Away from coding, I'm a biker and a pencil artist. I turn visual imaginations into art
+              drawings through pencil and paper.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
