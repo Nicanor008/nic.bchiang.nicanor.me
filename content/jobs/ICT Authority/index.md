@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2018-03-15'
+title: 'Junior Applications Developer'
+company: 'ICT Authority'
+location: 'Nairobi, Kenya'
+range: 'March - December 2018'
+url: 'https://icta.com/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

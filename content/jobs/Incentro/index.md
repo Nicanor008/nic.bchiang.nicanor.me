@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-08-25'
+title: 'Software Engineer'
+company: 'Incentro'
+location: 'Kenya & Netherlands'
+range: 'Aug 2020 - Jan 2022'
+url: 'https://incentro.com/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
