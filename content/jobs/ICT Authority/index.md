@@ -7,6 +7,5 @@ range: 'March - December 2018'
 url: 'https://icta.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Collaborated with the senior engineers to developed and maintained code for in-house websites using PHP, SQLServer, JavaScript, HTML, CSS and JQuery.
+- Wrote documentation for the in-house developed software

@@ -7,5 +7,7 @@ range: 'Dec 2018 - Oct 2019'
 url: 'https://andela.com/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Write modern, performant, maintainable code for a diverse array of client and internal projects
+- Work with a variety of different languages, platforms, frameworks, GCP, and content management systems such as Python, Django, JavaScript, TypeScript, GraphQL, React, etc
+- Communicate with multi-disciplinary teams of engineers, designers, managers, and clients on a daily basis
+- Part of Andela community that helped train over 1000 engineers every year across Africa
